@@ -1,0 +1,9 @@
+node_modules
+.nvmrc
+src/*
+.gitignore
+.npmignore
+.npmrc
+.nvmrc
+.eslintrc.json
+.babelrc

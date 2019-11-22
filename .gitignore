@@ -1,0 +1,11 @@
+node_modules
+.DS_Store*
+
+local.json
+dist/*
+.idea/*
+.nyc_output/*
+coverage/
+current.zip
+test.spec.js
+docker-compose/data/**
